@@ -1,7 +1,9 @@
 # README
 
 
-## A ruby on rails/express.js MVP for an app that connects people with similar interests/experience in a work environment. I created the backend; the frontend was created by a teammate. This is an old project. The steps to get it running are quite convoluted.
+## A ruby on rails/express.js MVP for an app that connects people with work projects related to their skills. I created the backend; the frontend was created by a teammate. This is an old project. The steps to get it running are quite convoluted.
+
+<a href="https://ibb.co/pPZQGRQ"><img src="https://i.ibb.co/8B2bTdb/Screenshot-134.png" alt="Screenshot-134" border="0"></a>
 
 ## Steps to start running the backend API ##
 <br>
